@@ -1,3 +1,4 @@
+%Give the output of the for-loops
 A = [1 9 8 4 6 2 5];
 for i = 1:length(A)
     B = A(i);
